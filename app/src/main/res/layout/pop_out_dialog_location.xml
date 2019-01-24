@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="20dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+
+        <TextView
+            android:text="STATE: " />
+
+        <EditText
+            android:id="@+id/location1"
+            android:hint="Johor"
+            android:inputType="text" />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+
+        <TextView
+            android:text="PBT: " />
+
+        <EditText
+            android:id="@+id/location2"
+            android:hint="Majlis Perbandaran Johor"
+            android:inputType="text" />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+
+        <TextView
+            android:text="DETAIL : " />
+
+        <EditText
+            android:id="@+id/location3"
+            android:hint="A1"
+            android:inputType="text" />
+
+    </TableRow>
+
+    <TableRow android:gravity="center_horizontal">
+
+        <Button
+            android:id="@+id/button_cancel_user_data"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cancel"
+            android:textSize="20dp"
+            android:textAllCaps="false"
+            android:gravity="center_horizontal"
+            android:layout_marginBottom="20dp"/>
+
+
+        <Button
+            android:id="@+id/button_set"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Set"
+            android:textSize="20dp"
+            android:textAllCaps="false"
+            android:gravity="center_horizontal"
+            android:layout_marginBottom="20dp"/>
+
+    </TableRow>
+
+</TableLayout>

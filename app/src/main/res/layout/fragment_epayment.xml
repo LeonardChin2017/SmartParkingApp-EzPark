@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context=".fragments.Epayment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <!--<TextView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="E-PAYMENT"-->
+        <!--android:textColor="#263238"-->
+        <!--android:textSize="30dp"-->
+        <!--android:padding="30dp"-->
+        <!--/>-->
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginTop="0dp"
+        android:text="E-payment"
+        android:textSize="30dp"
+        android:textColor="@color/white"
+        android:background="#26c6da" />
+
+    <TextView
+        android:id="@+id/location_text1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="110dp"
+        android:layout_marginLeft="100dp"
+        android:text="Please input your parking location."
+         />
+
+    <ImageView
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="115dp"
+        android:layout_marginLeft="30dp"
+        android:background="@drawable/locationpin"/>
+
+    <ImageView
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="205dp"
+        android:layout_marginLeft="30dp"
+        android:background="@drawable/littlecaricon"/>
+
+    <ImageView
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="310dp"
+        android:layout_marginLeft="30dp"
+        android:background="@drawable/clockicon"/>
+
+    <ImageView
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="405dp"
+        android:layout_marginLeft="30dp"
+        android:background="@drawable/pricetagicon"/>
+
+    <TextView
+        android:id="@+id/location_text2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="130dp"
+        android:layout_marginLeft="100dp"
+         />
+
+    <Button android:id="@+id/id_edit1"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="105dp"
+        android:layout_marginLeft="330dp"
+        android:focusable="true"
+        android:background="@drawable/green_edit_btn_2"/>
+
+    <Button android:id="@+id/id_edit2"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="205dp"
+        android:layout_marginLeft="330dp"
+        android:focusable="true"
+        android:background="@drawable/green_edit_btn_2"/>
+
+
+    <Button android:id="@+id/id_edit3"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="305dp"
+        android:layout_marginLeft="330dp"
+        android:focusable="true"
+        android:background="@drawable/green_edit_btn_2"/>
+
+
+    <TextView
+        android:id="@+id/location_text3"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="150dp"
+        android:layout_marginLeft="100dp"
+
+         />
+
+    <TextView
+        android:id="@+id/car_detail_text1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="215dp"
+        android:layout_marginLeft="100dp"
+        android:text="Please input your car details." />
+
+    <TextView
+        android:id="@+id/car_detail_text2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="235dp"
+        android:layout_marginLeft="100dp"
+         />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="310dp"
+        android:layout_marginLeft="100dp"
+        android:text="Parking duration" />
+
+    <TextView
+        android:id="@+id/time_detail_text1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="330dp"
+        android:layout_marginLeft="100dp"
+        android:text="Please input your parking duration." />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="390dp"
+        android:layout_marginLeft="100dp"
+        android:text="Total cost" />
+
+    <TextView
+        android:id="@+id/cost_text1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="410dp"
+        android:textSize="30dp"
+        android:layout_marginLeft="100dp"
+        android:text="RM 0.00" />
+
+    <Button android:id="@+id/id_save_btn"
+        android:layout_width="match_parent"
+        android:layout_height="62dp"
+        android:layout_marginTop="497dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginLeft="0dp"
+        android:focusable="true"
+        android:text="Save"
+        android:textColor="@color/white"
+        android:background="@color/lightbluebutton"/>
+
+    <Button android:id="@+id/id_epayment_btn"
+        android:layout_width="match_parent"
+        android:layout_height="66dp"
+        android:layout_marginTop="560dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginLeft="0dp"
+        android:text="PAY n PARK"
+        android:focusable="true"
+        android:textColor="@color/white"
+        android:background="@color/darkbluebutton"/>
+
+</FrameLayout>

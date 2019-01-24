@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorui">#90BF7F</color>
+    <color name="colorAccent">#536DFE</color>
+    <color name="colorbutton">#EF5151</color>
+    <color name="lightbluebutton">#29B6F6</color>
+    <color name="darkbluebutton">#1A237E</color>
+    <color name="white">#FFF</color>
+    <color name="red">#B22222</color>
+</resources>
+
+<!--<resources>-->
+<!--<color name="colorPrimary">#33cc33</color>-->
+<!--<color name="colorPrimaryDark">#009933</color>-->
+<!--<color name="colorui">#90BF7F</color>-->
+<!--<color name="colorAccent">#FF4081</color>-->
+<!--<color name="colorbutton">#EF5151</color>-->
+<!--<color name="white">#FFF</color>-->
+<!--<color name="red">#B22222</color>-->
+<!--</resources>-->
+
+<!--<resources>-->
+<!--<color name="colorPrimary">#4CAF50</color>-->
+<!--<color name="colorPrimaryDark">#388E3C</color>-->
+<!--<color name="colorui">#90BF7F</color>-->
+<!--<color name="colorAccent">#FF4081</color>-->
+<!--<color name="colorbutton">#EF5151</color>-->
+<!--<color name="white">#FFF</color>-->
+<!--<color name="red">#B22222</color>-->
+<!--</resources>-->

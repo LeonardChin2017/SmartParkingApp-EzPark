@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/menu_top"
+        android:layout_height="wrap_content"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/map"
+            android:icon="@drawable/home"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/carlocation"
+            android:icon="@drawable/car"
+            android:title="Find My Car" />
+
+        <item
+            android:id="@+id/epayment"
+            android:icon="@drawable/epayment"
+            android:title="E-payment" />
+
+        <item
+            android:id="@+id/timer"
+            android:icon="@drawable/clock"
+            android:title="Time Reminder" />
+    </group>
+
+    <item android:title="Double Park">
+        <menu>
+            <group
+                android:id="@+id/menu_middle"
+                android:layout_height="wrap_content"
+                android:checkableBehavior="single">
+                <item
+                    android:id="@+id/reportsystem"
+                    android:icon="@drawable/reportsystem"
+                    android:title="Report Double Park" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Others">
+        <menu>
+        <group
+            android:id="@+id/menu_bottom"
+            android:layout_height="wrap_content"
+            android:checkableBehavior="single">
+        <item
+            android:id="@+id/setting"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="Setting" />
+        <item
+            android:id="@+id/help"
+            android:icon="@drawable/ic_help_black_24dp"
+            android:title="Help" />
+        </group>
+        </menu>
+    </item>
+
+</menu>

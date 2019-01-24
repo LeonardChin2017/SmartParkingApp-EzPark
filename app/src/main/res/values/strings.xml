@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">EzPark</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="parking_duration">
+        <item></item>
+        <item>30 mins</item>
+        <item>1 hrs</item>
+        <item>2 hrs</item>
+        <item>3 hrs</item>
+        <item>4 hrs</item>
+        <item>5 hrs</item>
+        <item>6 hrs</item>
+        <item>7 hrs</item>
+        <item>8 hrs</item>
+    </string-array>
+
+</resources>

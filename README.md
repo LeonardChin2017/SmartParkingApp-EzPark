@@ -8,4 +8,5 @@ EzPark is developed to help users to find available parking spot in Malaysia.
 + Report double park
 
 # Thanks
-https://github.com/jiefly/NubiaTimer
++ https://github.com/jiefly/NubiaTimer
++ https://github.com/jeasonlzy/AlphaIndicatorView

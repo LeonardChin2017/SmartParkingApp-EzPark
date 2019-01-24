@@ -1,4 +1,4 @@
-# SmartParkingApp-EzPark (Capstone Project 2018)
+# SmartParkingApp-EzPark (UTM Capstone Project 2018)
 EzPark is developed to help users to find available parking spot in Malaysia.
 
 # Additional Features

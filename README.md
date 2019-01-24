@@ -13,3 +13,5 @@ EzPark is developed to help users to find available parking spot in Malaysia.
 <a href="url"><img src="https://github.com/LeonardChin2017/SmartParkingApp-EzPark/blob/master/screenshots/screenshot2.png" height="600" align="right" width="400" ></a>
 
 
+# Thanks
+https://github.com/yingLanNull/CircleAlarmTimerView

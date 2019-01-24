@@ -10,3 +10,15 @@ EzPark is developed to help users to find available parking spot in Malaysia.
 # Thanks
 + https://github.com/jiefly/NubiaTimer
 + https://github.com/jeasonlzy/AlphaIndicatorView
+
+# Screenshots
+
+<p>
+<img align="left" width="190" height="300" src="https://github.com/LeonardChin2017/SmartParkingApp-EzPark/blob/master/screenshots/screenshot1.png">
+
+<img align="left" width="190" height="300" src="https://github.com/LeonardChin2017/SmartParkingApp-EzPark/blob/master/screenshots/screenshot2.png">
+
+<img align="left" width="190" height="300" src="https://github.com/LeonardChin2017/SmartParkingApp-EzPark/blob/master/screenshots/screenshot3.png">
+
+<img align="left" width="190" height="300" src="https://github.com/LeonardChin2017/SmartParkingApp-EzPark/blob/master/screenshots/screenshot4.png">
+</p>

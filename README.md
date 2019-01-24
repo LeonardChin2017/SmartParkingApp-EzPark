@@ -7,11 +7,5 @@ EzPark is developed to help users to find available parking spot in Malaysia.
 + Alert Notification when parking time expires
 + Report double park
 
-# Screenshots
-<a href="url"><img src="https://github.com/LeonardChin2017/SmartParkingApp-EzPark/blob/master/screenshots/screenshot1.png" height="600" align="left" width="400" ></a>
-
-<a href="url"><img src="https://github.com/LeonardChin2017/SmartParkingApp-EzPark/blob/master/screenshots/screenshot2.png" height="600" align="right" width="400" ></a>
-
-
 # Thanks
 https://github.com/yingLanNull/CircleAlarmTimerView

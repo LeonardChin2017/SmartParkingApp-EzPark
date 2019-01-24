@@ -28,7 +28,6 @@ EzPark is developed to help users to find available parking spot in Malaysia.
 <br/><br/>
 <br/><br/>
 <br/><br/>
-<br/><br/>
 
 # Thanks
 + https://github.com/jiefly/NubiaTimer
@@ -36,3 +35,4 @@ EzPark is developed to help users to find available parking spot in Malaysia.
 
 
 # License
+This project is published under MIT license.

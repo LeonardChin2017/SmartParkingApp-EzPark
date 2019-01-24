@@ -7,9 +7,7 @@ EzPark is developed to help users to find available parking spot in Malaysia.
 + Alert Notification when parking time expires
 + Report double park
 
-# Thanks
-+ https://github.com/jiefly/NubiaTimer
-+ https://github.com/jeasonlzy/AlphaIndicatorView
+
 
 # Screenshots
 
@@ -22,3 +20,19 @@ EzPark is developed to help users to find available parking spot in Malaysia.
 
 <img align="left" width="190" height="300" src="https://github.com/LeonardChin2017/SmartParkingApp-EzPark/blob/master/screenshots/screenshot4.png">
 </p>
+
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+
+# Thanks
++ https://github.com/jiefly/NubiaTimer
++ https://github.com/jeasonlzy/AlphaIndicatorView
+
+
+# License

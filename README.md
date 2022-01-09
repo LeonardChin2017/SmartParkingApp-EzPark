@@ -8,27 +8,17 @@ EzPark is developed to help users to find available parking spot in Malaysia.
 + Report double park
 
 
-
 # Screenshots
-
-<p>
-<img align="left" width="190" height="300" src="https://github.com/LeonardChin2017/SmartParkingApp-EzPark/blob/master/screenshots/screenshot1.png">
-
-<img align="left" width="190" height="300" src="https://github.com/LeonardChin2017/SmartParkingApp-EzPark/blob/master/screenshots/screenshot2.png">
-
-<img align="left" width="190" height="300" src="https://github.com/LeonardChin2017/SmartParkingApp-EzPark/blob/master/screenshots/screenshot3.png">
-
-<img align="left" width="190" height="300" src="https://github.com/LeonardChin2017/SmartParkingApp-EzPark/blob/master/screenshots/screenshot4.png">
-</p>
-
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-
+<table>
+  <tr>
+    <td valign="top"><img src="https://github.com/LeonardChin2017/SmartParkingApp-EzPark/blob/master/screenshots/screenshot1.png"></td>
+    <td valign="top"><img src="https://github.com/LeonardChin2017/SmartParkingApp-EzPark/blob/master/screenshots/screenshot2.png"></td>
+    <td valign="top"><img src="https://github.com/LeonardChin2017/SmartParkingApp-EzPark/blob/master/screenshots/screenshot3.png"></td>
+    <td valign="top"><img src="https://github.com/LeonardChin2017/SmartParkingApp-EzPark/blob/master/screenshots/screenshot4.png"></td>
+  </tr>
+ </table>
+ 
+ 
 # Thanks
 + https://github.com/jiefly/NubiaTimer
 + https://github.com/jeasonlzy/AlphaIndicatorView
